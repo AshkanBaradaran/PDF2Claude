@@ -1,5 +1,5 @@
 # PDF2Claude
-A guide about how to use Claude for full text screening, data extraction and analysis in literature reviews.
+Text from PDFs can be extracted and analyzed with the help of large language models. This code and guide can also be applied to using Claude for full-text screening, data extraction, and analysis in literature reviews.
 
 If you find this useful, please cite:
 
